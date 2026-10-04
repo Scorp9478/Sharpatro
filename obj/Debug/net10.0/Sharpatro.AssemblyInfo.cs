@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sharpatro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e6ba033211db23567d90b67620e879f709d317b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+576544d63213e259e4080c7e982ce7eafcf04914")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sharpatro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sharpatro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
